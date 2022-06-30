@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "smitvavliya",
+        "MONGO_PASSWORD": "Cluster1234",
+        "MONGO_DB": "grpahql-events"
+    }
+}
